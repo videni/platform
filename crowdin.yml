@@ -1,0 +1,6 @@
+files:
+  - source: /src/Oro/Bundle/.*/Resources/translations/*.en.yml
+    translation: '%original_path%'
+    languages_mapping:
+      language:
+        zh-CN: zh_CN
